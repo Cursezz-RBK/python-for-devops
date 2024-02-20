@@ -9,6 +9,7 @@ In programming, a data type is a classification or categorization that specifies
 
 2. **Sequence Types:**
    - **str**: Represents strings (sequences of characters). Example: `text = "Hello, World"`
+     {{ There is no Char data type cause any single char is also considered as a string here }}
    - **list**: Represents lists (ordered, mutable sequences). Example: `my_list = [1, 2, 3]`
    - **tuple**: Represents tuples (ordered, immutable sequences). Example: `my_tuple = (1, 2, 3)`
 
